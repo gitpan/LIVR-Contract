@@ -35,7 +35,7 @@
    "provides" : {
       "LIVR::Contract" : {
          "file" : "lib/LIVR/Contract.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       },
       "LIVR::Contract::Exception" : {
          "file" : "lib/LIVR/Contract/Exception.pm"
@@ -47,5 +47,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
