@@ -1,5 +1,5 @@
 {
-   "abstract" : "Design by Contract in Perl with Language Independent Validation Rules (LIVR)",
+   "abstract" : "Design by Contract in Perl with Language Independent Validation Rules (LIVR).",
    "author" : [
       "Viktor Turskyi <koorchik@cpan.org>"
    ],
@@ -35,7 +35,7 @@
    "provides" : {
       "LIVR::Contract" : {
          "file" : "lib/LIVR/Contract.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       },
       "LIVR::Contract::Exception" : {
          "file" : "lib/LIVR/Contract/Exception.pm"
@@ -47,5 +47,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
